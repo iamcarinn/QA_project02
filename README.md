@@ -15,7 +15,7 @@ Test management. Analytics. Test documentation
  | 8   | «08.test strategy» | «Тестовая стратегия» | ✅  |
  | 9   | «09.test_plan» | «Тест-план» | ✅  |
  | 10  | «10.use_cases_empty» | «Use cases» (пока только шаблон страницы)| ✅  |
- | 11  |   | На странице «Тестирование» создать матрицу покрытия «Traceability matrix» | ✅  |
+ | 11  | --  | На странице «Тестирование» создать матрицу покрытия «Traceability matrix» | ✅  |
 
 <h3 id="exploratory-testing">Exploratory Testing</h3>
 
