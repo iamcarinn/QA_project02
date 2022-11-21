@@ -25,6 +25,6 @@ Test management. Analytics. Test documentation
  | No. | File name              | Task                                                                         | Status |
  | --- | -----------------------| ---------------------------------------------------------------------------- | ------ |
  | 1   | «11.use_cases» | На странице «Use cases» создать вложенные страницы «Use cases_Квартира» и «Use cases_Дом». | ✅     |
- | 1   | «12.use_cases_apartment» | Страница «Use cases_Квартира». | ✅     |
- | 1   | «13.use_cases_house» | Страница «Use cases_Дом».| ✅     |
- | 1   | «14.traceability_matrix» | Заполнить таблицу «Traceability matrix».  | ✅     |
+ | 2   | «12.use_cases_apartment» | Страница «Use cases_Квартира». | ✅     |
+ | 3   | «13.use_cases_house» | Страница «Use cases_Дом».| ✅     |
+ | 4   | «14.traceability_matrix» | Заполнить таблицу «Traceability matrix».  | ✅     |
