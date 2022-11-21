@@ -1,6 +1,8 @@
 # QA_project02
 Test management. Analytics. Test documentation
  ---
+ 
+ Educational project from organization «School 21 and the National Research Tomsk State University, TSU.
  <h3 id="requirement-analysis" >Requirement Analysis</h3>
  
  | No. | File name              | Task                                                                         | Status |
