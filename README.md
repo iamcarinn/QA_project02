@@ -15,4 +15,16 @@ Test management. Analytics. Test documentation
  | 8   | «08.test strategy» | «Тестовая стратегия» | ✅  |
  | 9   | «09.test_plan» | «Тест-план» | ✅  |
  | 10  | «10.use_cases_empty» | «Use cases» (пока только шаблон страницы)| ✅  |
- | 11  | «07.testing»,  |матрицу покрытия «Traceability matrix» | ✅  |
+ | 11  |   | На странице «Тестирование» создать матрицу покрытия «Traceability matrix» | ✅  |
+
+<h3 id="exploratory-testing">Exploratory Testing</h3>
+
+Проведите исследовательское тестирование калькулятора страхования квартиры/дома (до этапа оплаты)
+на сайте https://online.sber.insure/store/propertyins/;
+
+ | No. | File name              | Task                                                                         | Status |
+ | --- | -----------------------| ---------------------------------------------------------------------------- | ------ |
+ | 1   | «11.use_cases» | На странице «Use cases» создать вложенные страницы «Use cases_Квартира» и «Use cases_Дом». | ✅     |
+ | 1   | «12.use_cases_apartment» | Страница «Use cases_Квартира». | ✅     |
+ | 1   | «13.use_cases_house» | Страница «Use cases_Дом».| ✅     |
+ | 1   | «14.traceability_matrix» | Заполнить таблицу «Traceability matrix».  | ✅     |
